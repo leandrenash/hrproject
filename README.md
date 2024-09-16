@@ -77,3 +77,7 @@ You can install all dependencies by running:
 ### Evaluating Results
 
     The results for both models include accuracy, precision, recall, and F1-score for job classification based on HERA elements.
+
+
+### visualization added to code
+Visualization code updates 
